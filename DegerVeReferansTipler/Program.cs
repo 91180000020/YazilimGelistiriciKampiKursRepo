@@ -24,7 +24,7 @@ namespace DegerVeReferansTipler
             sayilar1 = sayilar2; // sayilar1 in referans numarası, sayilar2 nin referans numarasıdır.
             sayilar2[0] = 999;//sayilar1 de artık sayilar2 nin referansını tuttuğu için sayilar2[0] değiştiğinde sayilar1[0] da yeni değeri gösterir.
             //sayilar1[0] ?? 999 //referans tip
-
+             
             //stack             heap
             //sayilar1          [10,20,30]
             //sayilar2          [100,200,300]
